@@ -9,7 +9,7 @@ Todas las consultas están elaboradas en MySQL
 
 # Procesos realizados
 1. Unión de bases de datos desde el EER
-2.Consultas a las bases de datos
+2. Consultas a las bases de datos
 3. Guardar en vistas las consultas más típicas
 
 # Principales consultas y sus resultados
